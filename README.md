@@ -9,7 +9,7 @@ Install ROS on your jetson by following the directions on the [ROS Wiki](http://
 
 ### Install ZED SDK
    [Sterio Labs Ros Integration](https://github.com/stereolabs/zed-ros-wrapper#stereolabs-zed-camera---ros-integration)
-   -We used a 2.x version of the ros wrapper because the latest SDK version that had Jetson support was 2.8.5
+      -We used a 2.x version of the ros wrapper because the latest SDK version that had JetsonTX1 support was 2.8.5
    
 ### Install ROS nodes
 Install all needed nodes 
