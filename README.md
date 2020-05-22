@@ -15,7 +15,7 @@ Install ROS on your jetson by following the directions on the [ROS Wiki](http://
 ### Install ROS nodes
 Install all needed nodes 
   -9Dof Razer IMU (http://wiki.ros.org/razor_imu_9dof)
-  --Follow the guide on installing libs and boards for arduino ide for [/9dof-razor-imu-m0](https://learn.sparkfun.com/tutorials/9dof-razor-imu-m0-hookup-guide)
+  --Follow the guide on installing libs and boards for arduino ide for [9dof-razor-imu-m0](https://learn.sparkfun.com/tutorials/9dof-razor-imu-m0-hookup-guide)
 
 ### Daily Setup
 Moniter
