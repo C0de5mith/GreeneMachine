@@ -8,8 +8,8 @@ If the jetson does not already have ubuntu 16 on it, flash it to the jetson usin
 Install ROS on your jetson by following the directions on the [ROS Wiki](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 
 ### Install ZED SDK
-   -https://github.com/stereolabs/zed-ros-wrapper#stereolabs-zed-camera---ros-integration
-   - We used a 2.x version of the ros wrapper because the latest SDK version that had Jetson support was 2.8.5
+   [Sterio Labs Ros Integration](https://github.com/stereolabs/zed-ros-wrapper#stereolabs-zed-camera---ros-integration)
+   -We used a 2.x version of the ros wrapper because the latest SDK version that had Jetson support was 2.8.5
    
 ### Install ROS nodes
 Install all needed nodes 
